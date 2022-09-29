@@ -1,0 +1,1012 @@
+[{
+"setlang_done":{
+"en": "**<:yes:839305757576003585> The language has been changed to English **",
+"ar": "**<:yes:839305757576003585> تم تغيير إعدادات اللغة الى اللغة العربية**"
+},
+"i_cant_find_lang":{
+"en":"**i can't find this language please choose [ar/en]**",
+"ar":"**لا يمكنني إيجاد هذه اللغة الرجاء الاختيار بين [ar/en]**"
+},
+
+"giveaway_time":{
+"en": "React with 🎉 to enter!\nTime remaining: [time]\nHosted by: [author]",
+"ar":"اضغط على رياكشن 🎉 للمشاركة!\nالوقت المتبقي: [time]\nصاحب القيفاوي: [author]"
+},
+"giveaway_ended_winner":{
+"en":"Winner: [winer]\nHosted by: [author]",
+"ar":"الفائز : [winer]\nصاحب القيفاوي: [author]"
+},
+"giveaway_ended_no_winner":{
+"en":"Winner: [winer]\nHosted by: [author]",
+"ar":"الفائز : [winer]\nصاحب القيفاوي: [author]"
+},
+"giveaway_ended":{
+"en":"🎉 GIVEAWAY ENDED 🎉",
+"ar":"🎉 انتهى القيفاوي 🎉"
+},
+"giveaway":{
+"en":"🎉 GIVEAWAY 🎉",
+"ar":"🎉 قيفاوي 🎉"
+},
+"no_vaild_entrants":{
+"en":"No valid entrants, so a winner could not be determined!https://discordapp.com/channels/[guild]/[data.channel]/[messageid]",
+"ar":"لا يوجد مشاركين , لذلك لم استطع تحديد فائز ! https://discordapp.com/channels/[guild]/[data.channel]/[messageid]"
+},
+"congrats_winner":{
+"en":"Congratulations [winner]! You won the **[data]**!https://discordapp.com/channels/[guild]/[channel]/[messageid]",
+"ar":"مبروك [winner] لقد فزت بالـ **[data]**! https://discordapp.com/channels/[guild]/[channel]/[messageid]"
+},
+"please_use_giveaway":{
+"en":"**<:no:839305037007814656> :use [prefix]gstart 1w 30s T-Shirt**",
+"ar":"**<:no:839305037007814656> استخدم : [prefix]gstart 1w 30s T-Shirt**"
+},
+  
+  
+  
+"youblackllist":{
+"en": "** <:no:839305037007814656> You are Blacklisted from Rhyno Bot**",
+"ar": "** <:no:839305037007814656> أنت في القائمة السوداء الخاصه براينو بوت**"
+},
+"thisblacklist":{
+"en":"** <:no:839305037007814656> This User is Blacklisted from Rhyno Bot**",
+"ar":"** <:no:839305037007814656> هذا المستخدم في القائمة السوادء الخاصه براينو بوت**"
+},
+"credits_author":{
+"en": "** <:Coins:838935941900664903> [username] , You Have  `[coins]$` Coins**",
+"ar": "** <:Coins:838935941900664903> [username] , لديك `[coins]$` كوينز في حسابك**"
+},
+"bots_dont":{
+"en":"**<:no:839305037007814656> Bots don't have Coins **",
+"ar":"**<:no:839305037007814656> البوتات ليس لديها كوينز**"
+},
+"credits_user":{
+"en": "**<:Coins:838935941900664903> [username] , has `[coins]$` Coins**",
+"ar":"**<:Coins:838935941900664903> [username] , هذا العضو يملك `[coins]$` كوينز في حسابه**"
+},
+"you_dont_have":{
+"en":"**<:no:839305037007814656> You don't have that much ! , try type something less than `[coins]$`**",
+"ar":"**<:no:839305037007814656> أنت لا تملك هذا العدد من الكوينز! , جرب كتابة رقم أقل من `[coins]$`**"
+},
+"tranfer_credits":{
+"en": "**<:Coins:838935941900664903> You're about to transfer `[credits]` with fees `[fess]` , to <@[userID]>**\nPlease type the numbers in this picture to complete :",
+"ar":"**<:Coins:838935941900664903> أنت على وشك تحويل `[credits]` مع ضرائب `[fess]` , to <@[userID]>**\nالرجاء كتابة الارقام في الصورة لتاكيد التحويل :"
+},
+"you_dont_have":{
+"en":"**<:no:839305037007814656> You don't have that much !**",
+"ar":"**<:no:839305037007814656> أنت لا تملك هذا العدد من الكوينز !**"
+},
+"You_Have_Received":{
+"en":"**<:Coins:838935941900664903> You Have Received `[alkmal]` Coins From `[username]#[tag]` (ID : `[id]`)**",
+"ar":"**<:Coins:838935941900664903> لقد استلمت مبلغ `[alkmal]` كوينز من `[username]#[tag]` (ID : `[id]`)**"
+},
+"You_Have_Transferred":{
+"en":"**<:Coins:838935941900664903> [username] , You Have Transferred `[alkmal]` Coins to <@[userid]>**",
+"ar":"**<:Coins:838935941900664903> [username] , لقد قمت بتحويل `[alkmal]` كوينز الى <@[userid]>**"
+},
+  
+  
+"you_can_take_daily":{
+"en":"**<:time:845274874434813993> You can take your daily only 1 time everyday , you must wait (time) to your next daily**",
+"ar":"**<:time:845274874434813993> يمكنك أخذ الجائزة اليومية مره واحده فقط كل يوم , يجب عليك الانتظار (time) حتى الجائزة القادمة**"
+},
+"please_type_numbers":{
+"en":"**Please type the numbers in this picture to recive your daily coins :**",
+"ar":"الرجاء كتابة الأرقام الموجودة أدناه لاستلام جائزتك اليومية:"
+},
+"recive_daily":{
+"en":"**<:Coins:838935941900664903> [id] You Have received `[daily]$` Coins for your last daily**",
+"ar":"**<:Coins:838935941900664903> [id] لقد حصلت على `[daily]$` كوينز في الجائزة اليومية**"
+},
+  
+
+"bots_dont_have_id":{
+"en":"**<:Bot:840454515773145119> Bots Don't Have id**",
+"ar":"**<:Bot:840454515773145119> البوتات لا تملك أيدي**"
+},
+  
+
+"like_enter":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to give a like point to someone\n\n For example:**\n\n> **[prefix]like <@[id]> **\n> **[prefix]like [id] **",
+"ar":"**<:no:839305037007814656> يجب عليك إدخال منشن او ايدي لإعطاء نقطة إعجاب لشخص ما\n\n على سبيل المثال:**\n\n> **[prefix]like <@[id]> **\n> **[prefix]like [id] **"
+},
+"you_cant_like_yourself":{
+"en":"**<:no:839305037007814656> You can't like your self !\nYou must enter a mention or id to give a like point to someone\n\n For example:**\n\n> ** [prefix]like <@[id]> **\n> **[prefix]like [id] **",
+"ar":"**<:no:839305037007814656> لا يمكنك إعطاء نقطة إعجاب لنفسك !\nيجب عليك إدخال منشن او ايدي لإعطاء نقطة إعجاب لشخص ما\n\n على سبيل المثال:**\n\n> ** [prefix]like <@[id]> **\n> **[prefix]like [id] **"
+},
+"bots_dont_have_likes":{
+"en":"**<:Bot:840454515773145119> Bots Don't Have Likes**",
+"ar":"**<:Bot:840454515773145119> البوتات ليس لديها نقاط اعجاب**"
+},
+"like_everyday":{
+"en":"**<:time:845274874434813993> You can give your like only 1 time everyday , you must wait (time) to your next like**",
+"ar":"**<:time:845274874434813993> يمكنك اعطاء نقطة الاعجاب الخاصه بك مره واحده فقط كل يوم , يجب عليك الانتظار (time) حتى تستطيع اعطاء نقطة اعجاب اخرى**"
+},
+"give_like":{
+"en":"**<:Like:840422690065874954> [username], You Have given [user] Like point**",
+"ar":"**<:Like:840422690065874954> [username], لقد أعطيت [user] نقطة إعجاب**"
+},
+  
+  
+"bots_dont_have_profiles":{
+"en":"**<:Bot:840454515773145119> Bots Don't Have Profiles**",
+"ar":"**<:Bot:840454515773145119> البوتات لا تملك ملف شخصي**"
+},
+  
+  
+"cant_find_giveaway":{
+"en":"**<:no:839305037007814656> I Can't Find This GiveAway**",
+"ar":"**<:no:839305037007814656> لا يمكنني ايجاد هذا القيفاوي**"
+},
+"you_must_have_of":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Guild]` of [guildname] to use this command**",
+"ar":"**<:no:839305037007814656> يجب ان يكون لديك صلاحيات `[Manage Guild]` في [guildname] حتى تستطيع استخدام هذا الامر***"
+},
+"you_must_gend":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Guild]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحيات `[Manage Guild]` حتى تستطيع استخدام هذا الامر**"
+},
+"done_gend":{
+"en":"**Done 1-6s To End Giveaway**",
+"ar":"تم , الرجاء الانتظار 1-6 ثواني لانهاء القيفاوي"
+},
+"you_must_manageguild":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Guild]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحيات `[Manage Guild]` حتى تستطيع استخدام هذا الامر**"
+},
+"id_message":{
+"en":"**<:no:839305037007814656> id message required**",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال ايدي الرساله**"
+},
+"cant_reroll":{
+"en":"**<:no:839305037007814656> You can't roll a giveaway that haven't ended**",
+"ar":"**<:no:839305037007814656> لا يمكنك اعاده اختيار فائز لقيفاوي لم ينتهي بعد**"
+},
+"use_giveaway_winners":{
+"en":"**<:no:839305037007814656> :use [prefix]gstart 1w 30s T-Shirt\nNote: Winners must be between 1 and 10**",
+"ar":"**<:no:839305037007814656> استخدم : [prefix]gstart 1w 30s T-Shirt\nملاحظة: عدد الفائزين يجب ان يكون بين 1 و 10**"
+},
+"use_giveaway_time":{
+"en":"**<:no:839305037007814656> use: [prefix]gstart 30s 1w T-Shirt\nNote: Time must be between 10s and 2w**",
+"ar":"**<:no:839305037007814656> استخدم : [prefix]gstart 30s 1w T-Shirt\nملاحظة: الوقت يجب ان يكون بين 10 ثواني و اسبوعين**"
+},
+"react_with":{
+"en":"React with 🎉 to enter!\nTime remaining: [time]\nHosted by: [author]",
+"ar":"اضغط على رياكشن 🎉 للمشاركة!\nالوقت المتبقي: [time]\nصاحب القيفاوي: [author]"
+},
+"giveaway":{
+"en":"🎉 GIVE AWAY 🎉",
+"ar":"🎉 قيفاوي 🎉"
+},
+  
+  
+"must_addemojis":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Emojis]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[Manage Emojis]` حتى تستطيع استخدام هذا الامر**"
+},
+"use_addemojis":{
+"en":"**use: \n[prefix]add-emoji [url] [role-use]\nNote: [role-use] is role ID which can use this emoji (all = all roles)**",
+"ar":"**استخدم: \n[prefix]add-emoji [url] [role]**\n\nملاحظة: [role] هي الرتبة التي تستطيع استخدام هذا الايموجي (اذا وضعت ايدي رتبه معينه لن يستطيع اي شخص رؤية هذا الايموجي الا من يملك هذه الرتبه) (all = all roles)"
+},
+"testing_emoji":{
+"en":"**<:loading:839574835683786812> Testing Emoji **",
+"ar":"**<:loading:839574835683786812> جاري تجربة الايموجي **"
+},
+"failed_emoji":{
+"en":"**<:no:839305037007814656> Failed To Upload this emoji! **",
+"ar":"**<:no:839305037007814656> لم أستطع اضافة هذا الايموجي! **"
+},
+"added_emoji":{
+"en":"**<:yes:839305757576003585> I Have Added this emoji **",
+"ar":"**<:yes:839305757576003585> تم إضافة هذا الايموجي الى السيرفر **"
+},
+"error_emoji":{
+"en":"**<:no:839305037007814656> I Can't add This Emoji\nAPI Error: [error] **",
+"ar":"**<:no:839305037007814656> لا يمكنني اضافة هذا الايموجي\nAPI Error: [error] **"
+},
+  
+  
+"massgae_exists":{
+"en":"**<:no:839305037007814656> Message already exists**",
+"ar":"**<:no:839305037007814656> هذه الرساله موجوده بالفعل**"
+},
+"add_blocks":{
+"en":"**<:yes:839305757576003585> This message was added to the blocked Messages**",
+"ar":"**<:yes:839305757576003585> تم إضافة هذه الرسالة الى الرسائل المحظورة**"
+},
+  
+  
+"must_manageroles":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Roles]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[Manage Roles]` لاستخدام هذا الامر**"
+},
+"cant_find_role":{
+"en":"**<:no:839305037007814656> I Can't find this role**",
+"ar":"**<:no:839305037007814656> لا يمكنني إيجاد هذه الرتبة**"
+},
+"auto_role":{
+"en":"**<:yes:839305757576003585> Auto Role is **",
+"ar":"**<:yes:839305757576003585> الرتبة التقائية هي  **"
+},
+
+  
+"must_banmembers":{
+"en":"**<:no:839305037007814656> You must Have permission `[Ban Members]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[Ban Members]` لاستخدام هذا الامر**"
+},
+"you_must_ban":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to ban someone\n\n For example:**\n\n> ** [prefix]ban <@[id]> 1d reason**\n> **[prefix]ban [id] 1d reason**",
+"ar":"**<:no:839305037007814656> يجب عليك إدخال منشن أو ايدي لحظر شخص من السيرفر\n\n على سبيل المثال:**\n\n> ** [prefix]ban <@[id]> 1d السبب**\n> **[prefix]ban [id] 1d السبب**"
+},
+"cant_find_user":{
+"en":"**<:no:839305037007814656> I Can't find this user**",
+"ar":"**<:no:839305037007814656> لا يمكنني إيجاد هذا المستخدم**"
+},
+"you_cant_ban":{
+"en":"**<:no:839305037007814656> You Can't Ban** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك حظر** <@"
+},
+"i_cant_ban":{
+"en":"**<:no:839305037007814656> I Can't Ban** <@",
+"ar":"**<:no:839305037007814656> لا أستطيع حظر** <@"
+},
+"this_user":{
+"en":"**<:plane:839629316756733977> This user `",
+"ar":"**<:plane:839629316756733977> تم حظر هذا المستخدم `"
+},
+"has_been_banned":{
+"en":"` Has been banned from this Guild ** ",
+"ar":"` من السيرفر **"
+},
+  
+  
+"blocked_messages":{
+"en":"<:no:839305037007814656> Blocked Messages",
+"ar":"<:no:839305037007814656> الرسائل المحظورة"
+},
+"dont_have_blocked":{
+"en":"You Don't have any blocked message",
+"ar":"لا توجد أي رسائل محظورة"
+},
+  
+  
+"dont_have_bots":{
+"en":"There is no bots in this server",
+"ar":"هذا السيرفر لا يوجد به اي بوتات"
+},
+  
+
+"must_managemessages":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Messages]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[Manage Messages]` حتى تستطيع استخدام هذا الامر**"
+},
+"done_delete":{
+"en":"**<:yes:839305757576003585> Done Delete ",
+"ar":"**<:yes:839305757576003585> تم مسح "
+},
+"messages":{
+"en":" Message(s)**",
+"ar":" رسالة**"
+},
+  
+"must_managechannels":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Channels]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[Manage Channels]` حتى تستطيع استخدام هذا الامر**"
+},
+  
+  
+"done_hide":{
+"en":"**Done This channel is now unavailable for anyone to see it's content <:hide:845149776340451389> **",
+"ar":"**تم اخفاء هذه الروم من الجميع <:hide:845149776340451389> **"
+},
+
+  
+"kick_members":{
+"en":"**<:no:839305037007814656> You must Have permission `[kick Members]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[kick Members]` حتى تستطيع استخدام هذا الامر**"
+},
+"enter_kick":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to kick someone\n\n For example:**\n\n> ** [prefix]kick <@[id]> **\n> **[prefix]kick [id] **",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن أو أيدي لطرد عضو من السيرفر\n\n على سبيل المثال:**\n\n> ** [prefix]kick <@[id]> **\n> **[prefix]kick [id] **"
+},
+"you_cant_kick":{
+"en":"**<:no:839305037007814656> You Can't Kick** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك طرد** <@"
+},
+"no_reason":{
+"en":"No Reason",
+"ar":"بدون سبب"
+},
+"i_cant_kick":{
+"en":"**<:no:839305037007814656> I Can't Kick** <@",
+"ar":"**<:no:839305037007814656> لا أستطيع طرد** <@"
+},
+"has_been_kicked":{
+"en":"> **Has been kicked from the server**",
+"ar":"> **تم طرده من السيرفر**"
+},
+  
+  
+"done_locked":{
+"en":"**Done This channel is now Locked <:locked:839698778381877268> **",
+"ar":"**تم هذه الروم مغلقة الآن <:locked:839698778381877268> **"
+},
+  
+  
+"enter_mute":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to mute someone\n\n For example:**\n\n> ** [prefix]mute <@[id]> 1d reason**\n> **[prefix]mute [id] 1d reason**",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن او ايدي لاسكات شخص\n\n على سبيل المثال:**\n\n> ** [prefix]mute <@[id]> 1d السبب**\n> **[prefix]mute [id] 1d السبب**"
+},
+"cant_find_role_muted":{
+"en":"**<:no:839305037007814656> I Can't Find Role Muted Please Give Me Permission to Create one!**",
+"ar":"**<:no:839305037007814656> لا يمكنني إيجاد رتبة Muted الرجاء إعطائي رتبة حتى أقوم بصنع واحده!**"
+},
+"you_cant_mute":{
+"en":"**<:no:839305037007814656> You Can't Mute** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك إسكات** <@"
+},
+"i_cant_mute":{
+"en":"**<:no:839305037007814656> I Can't Mute ** <@",
+"ar":"**<:no:839305037007814656> لا أستطيع إسكات ** <@"
+},
+"has_been_muted":{
+"en":"> Has been Muted**",
+"ar":"> تم إسكات هذا العضو**"
+},
+  
+  
+"manage_nicknames":{
+"en":"**<:no:839305037007814656> You must Have permission `[Manage Nicknames]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[Manage Nicknames]` حتى تستطيع إستخدام هذا الامر**"
+},
+"i_cant_nick":{
+"en":"**<:no:839305037007814656> I Can't Edit Nick Name to** <@",
+"ar":"**<:no:839305037007814656> لا يمكنني تعديل اسم** <@"
+},
+"changed_nickname":{
+"en":"**<:yes:839305757576003585> I Have changed  Your Nick Name to** ",
+"ar":"**<:yes:839305757576003585> تم تغيير الاسم الخاص بك الى** "
+},
+"you_cant_nick":{
+"en":"**<:no:839305037007814656> You Can't edit nickname to ** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك تغيير اسم هذا العضو ** <@"
+},
+"i_cant_nick":{
+"en":"**<:no:839305037007814656> I Can't Edit Nick Name to** <@",
+"ar":"**<:no:839305037007814656> لا يمكنني تغيير الاسم الخاص بهذا العضو** <@"
+},
+"i_have_changed":{
+"en":"**<:yes:839305757576003585> I Have changed `",
+"ar":"**<:yes:839305757576003585> لقد قمت بتغيير اسم `"
+},
+"nick_to":{
+"en":"`to** ",
+"ar":"`إلى**"
+},
+
+  
+"removed_blocks":{
+  "en":"**<:yes:839305757576003585> This message was removed from the blocked Messages**",
+  "ar":"**<:yes:839305757576003585> تمت إزالة هذه الرسالة من الرسائل المحظورة**"
+},
+
+  
+"must_role":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to edit roles for someone\n\n For example:**\n\n> ** [prefix]role <@[id]> [role]**\n> **[prefix]role [id] [role]**\n\n> **[prefix]role all [role]**\n> **[prefix]role -all [role]**\n\n> **[prefix]role humans [role]**\n> **[prefix]role -humands [role]**\n\n> **[prefix]role bots [role]**\n> **[prefix]role -bots [role]**",
+"ar":"**<:no:839305037007814656> يجب عليك إدخال منشن أو ايدي أو احد هذه الاوامر لتعديل الرتب لشخص ما\n\n على سبيل المثال:**\n\n> ** [prefix]role <@[id]> [role]**\n> **[prefix]role [id] [role]**\n\n> **[prefix]role all [role]**\n> **[prefix]role -all [role]**\n\n> **[prefix]role humans [role]**\n> **[prefix]role -humands [role]**\n\n> **[prefix]role bots [role]**\n> **[prefix]role -bots [role]**"
+},
+"cant_find_role":{
+"en":"**<:no:839305037007814656> I Can't find this role**",
+"ar":"**<:no:839305037007814656> لا يمكنني إيجاد هذه الرتبة**"
+},
+"cant_edit_roles":{
+"en":"**<:no:839305037007814656> You Can't Edit Roles for this user** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك تعديل الرتب لهذا العضو** <@"
+},
+"role_higher_than_you":{
+"en":"**<:no:839305037007814656> This Role position higher than yours**",
+"ar":"**<:no:839305037007814656> هذه الرتبة اعلى من رتبتك**"
+},
+"i_cant_role":{
+"en":"**<:no:839305037007814656> I Can't Edit Roles to** <@",
+"ar":"**<:no:839305037007814656> لا يمكنني تعديل الرتب الخاصه بـ** <@"
+},
+"removed_roles":{
+"en":"**<:yes:839305757576003585> I Have Removed Role [role] from this user <@[id]>**",
+"ar":"**<:yes:839305757576003585> قمت بإزالة رتبة [role] من <@[id]>**"
+},
+"added_roles":{
+"en":"**<:yes:839305757576003585> I Have Added Role [role] for this user <@[id]>**",
+"ar":"**<:yes:839305757576003585> قمت بإضافة رتبة [role] لهذا العضو <@[id]>**"
+},
+"adding_roles":{
+"en":"**<:loading:839574835683786812> Adding Role [role] to [members] Member(s), Please Wait..**",
+"ar":"**<:loading:839574835683786812> أقوم الآن بإضافة رتبة [role] لـ [members] عضو , الرجاء الانتظار..**"
+},
+"done_adding":{
+"en":"**<:yes:839305757576003585> Done Adding Role [role] to [members] Member(s)**",
+"ar":"**<:yes:839305757576003585> انتهيت من إضافة رتبة [role] لـ [members] عضو**"
+},
+"adding_roles_bots":{
+"en":"**<:loading:839574835683786812> Adding Role [role] to [bots] Bot(s), Please Wait..**",
+"ar":"**<:loading:839574835683786812> أقوم الآن بإضافة رتبة [role] لـ [bots] بوت , الرجاء الانتظار..**"  
+},
+"done_adding_bots":{
+"en":"**<:yes:839305757576003585> Done Adding Role [role] to [bots] Bot(s)**",
+"ar":"**<:yes:839305757576003585> انتهيت من إضافة رتبة [role] لـ [bots] بوت**"
+},
+"adding_humans":{
+"en":"**<:loading:839574835683786812> Adding Role [role] to [humans] Human(s), Please Wait..**",
+"ar":"**<:loading:839574835683786812> أقوم الآن بإضافة رتبة [role] لـ [humans] إنسان, الرجاء الانتظار..**"
+},
+"done_adding_humans":{
+"en":"**<:yes:839305757576003585> Done Adding Role [role] to [humans] Human(s)**",
+"ar":"**<:yes:839305757576003585> انتهيت من إضافة رتبة [role] لـ [humans] إنسان**"
+},
+"removing_roles":{
+"en":"**<:loading:839574835683786812> Removing Role [role] from [members] Member(s), Please Wait..**",
+"ar":"**<:loading:839574835683786812> أقوم الآن بإزالة رتبة [role] من [members] عضو , الرجاء الانتظار..**"
+},
+"done_removing":{
+"en":"**<:yes:839305757576003585> Done Removing Role [role] from [members] Member(s)**",
+"ar":"**<:yes:839305757576003585> انتهيت من إزالة رتبة [role] من [members] عضو**"
+},
+"removing_roles_bots":{
+"en":"**<:loading:839574835683786812> Removing Role [role] from [bots] Bot(s), Please Wait..**",
+"ar":"**<:loading:839574835683786812> أقوم الآن بإزالة رتبة [role] من [bots] بوت , الرجاء الانتظار..**"
+},
+"done_removing_bots":{
+"en":"**<:yes:839305757576003585> Done Removing Role [role] from [bots] Bot(s)**",
+"ar":"**<:yes:839305757576003585> انتهيت من إزالة ربتة [role] من [bots] بوت**"
+},
+"removing_humans":{
+"en":"**<:loading:839574835683786812> Removing Role [role] from [humans] Human(s)**",
+"ar":"**<:loading:839574835683786812> أقوم الآن بإزالة رتبة [role] من [humans] إنسان**"
+},
+"done_removing_humans":{
+"en":"**<:yes:839305757576003585> Done Removing Role [role] from [humans] Human(s)**",
+"ar":"**<:yes:839305757576003585> أقوم الآن بإزالة رتبة [role] من [humans] إنسان**"
+},
+
+  
+"show":{
+"en":"**Done This channel is now available for everyone to see it's content <:unlcoked:839698755908272129> **",
+"ar":"**تم إظهار هذا الروم الى الجميع <:unlcoked:839698755908272129> **"
+},
+  
+  
+"doesnt_have_bans":{
+"en":"**<:no:839305037007814656> This Server doesn't have any bans**",
+"ar":"**<:no:839305037007814656> هذا السيرفر لا يوجد به أي أشخاص محظورة**"
+},
+"cant_find_ban":{
+"en":"**<:no:839305037007814656> I Can't find this user in bans list**",
+"ar":"**<:no:839305037007814656> لا يمكنني إيجاد هذا العضو في قائمة المحظورين**"
+},
+"i_cant_unban":{
+"en":"**<:no:839305037007814656> I Can't unBan** <@",
+"ar":"**<:no:839305037007814656> لا أستطيع حظر هذا العضو** <@"
+},
+"has_been_banned":{
+"en":"Has been unbanned from this guild**",
+"ar":"تم فك الحظر عنه في هذا السيرفر**"
+},
+  
+  
+"done_unlock":{
+"en":"**Done This channel is now unLocked <:unlcoked:839698755908272129> **",
+"ar":"**تم , هذه الغرفة الآن مفتوحه <:unlcoked:839698755908272129> **"
+},
+
+  
+"this_user_not_muted":{
+"en":"**<:no:839305037007814656> This User is not muted!**",
+"ar":"**<:no:839305037007814656> هذا العضو ليس لديه رتبة الاسكات**"
+},
+"i_cant_unmute":{
+"en":"**<:no:839305037007814656> I Can't unmute ** <@",
+"ar":"**<:no:839305037007814656> لا أستطيع ازالة اسكات هذا العضو ** <@"
+},
+"has_been_unmuted":{
+"en":"> Has been unMuted**",
+"ar":"> تم إزالة إسكات هذا العضو**"
+},
+
+  
+"you_must_voice":{
+"en":"**<:no:839305037007814656> You must be in a voice room to use this command**",
+"ar":"**<:no:839305037007814656> يجب عليك أن تكون في روم صوتي حتى تستطيع استخدام هذا الامر**"
+},
+"no_music_running":{
+"en":"**<:no:839305037007814656> There is no music running**",
+"ar":"**<:no:839305037007814656> لا يوجد اي موسيقى تعمل**"
+},
+"enter_number_song":{
+"en":"**<:no:839305037007814656> You must enter the number of the song or (all)**",
+"ar":"**<:no:839305037007814656> يجب عليك أن تكتب رقم الأغنية أو (all)**"
+},
+"list_removed":{
+"en":"**<:yes:839305757576003585> All songs in the list have been removed**",
+"ar":"**<:yes:839305757576003585> تم إزالة جميع الأغاني الموجودة بالقائمة**"
+},
+"correct_format":{
+"en":"**<:no:839305037007814656> You must enter a correct format**",
+"ar":"**<:no:839305037007814656> يجب عليك إدخال قيمة صحيحه**"
+},
+"didnt_find_song":{
+"en":"**<:no:839305037007814656> I didn't find this song**",
+"ar":"**<:no:839305037007814656> لم أستطع إيجاد هذه الأغنية**"
+},
+"must_be_in_this_room":{
+"en":"**<:no:839305037007814656> You must be in this room [[botchannel]]**",
+"ar":"**<:no:839305037007814656> يجب عليك أن تكون في هذه الغرفة الصوتية [[botchannel]]**"
+},
+"removed_from_list":{
+"en":"**<:yes:839305757576003585> [song] Has been removed from the list**",
+"ar":"**<:yes:839305757576003585> [song] تم إزالة هذه الأغنية من القائمة**"
+},
+"music_paused":{
+"en":"**The music has been paused**",
+"ar":"**تم إيقاف الموسيقى مؤقتا**"
+},
+"cant_join":{
+"en":"**<:no:839305037007814656> I can't Join this room , please check my permissions**",
+"ar":"**<:no:839305037007814656> لا يمكنني دخول هذه الغرفة , رجاءً تأكد من صلاحياتي**"
+},
+"song_title":{
+"en":"**<:Music:839385313776107521> **[songname] Has been resumed**",
+"ar":"**<:Music:839385313776107521> **[songname] تم تشغيل الأغنية**"
+},
+"search_song":{
+"en":"**Music play**\n**[prefix]play** Youtube Link\n**[prefix]play** Sound cloud link\n**[prefix]play** Youtube Search",
+"ar":"**تشغيل الموسيقى**\n**[prefix]play** رابط يوتيوب\n**[prefix]play** رابط ساوند كلاود\n**[prefix]play** بحث يوتيوب"
+},
+"no_results":{
+"en":"**<:no:839305037007814656> No Results**",
+"ar":"**<:no:839305037007814656> لا توجد نتائج**"
+},
+"start_playing":{
+"en":"Start playing",
+"ar":"بدأ تشغيل"
+},
+"added_song":{
+"en":"Added [added] song",
+"ar":"تم إضافة [added] "
+},
+"added_data":{
+"en":"Added : [added]",
+"ar":"تم إضافة : [added]"
+},
+"no_music_queue":{
+"en":"**<:no:839305037007814656> There is no music in queue**",
+"ar":"**<:no:839305037007814656> لا توجد موسيقى في القائمة**"
+},
+"page_queue":{
+"en":"Page : [page1]/[page]",
+"ar":"الصفحات : [page1]/[page]"
+},
+"current_repeated":{
+"en":"<:Repeatsingle:840397740507922462> **The current song will be repeated**",
+"ar":"<:Repeatsingle:840397740507922462> **تم تشغيل التكرار للأغنية الحالية فقط**"
+},
+"complete_repeat":{
+"en":"<:Repeat:840397708904366090> **The playlist will be repeated completely**",
+"ar":"<:Repeat:840397708904366090> **تم تشغيل التكرار للقائمة كاملة**"
+},
+"stop_repeat":{
+"en":"<:Music:839385313776107521> **Repeating has been stopped**",
+"ar":"<:Music:839385313776107521> **تم إيقاف التكرار**"
+},
+"already_voted":{
+"en":"**<:no:839305037007814656> You have already voted**",
+"ar":"**<:no:839305037007814656> لقد صوتت بالفعل**"
+},
+"skiped_song":{
+"en":"**<:Music:839385313776107521> Skipped this song , Start playing: [song]**",
+"ar":"**<:Music:839385313776107521> تم تخطية هذه الأغنية , جاري بدا تشغيل: [song]**"
+},
+"skipping_voted":{
+"en":"**<:vote:840400013988462632> Skipping has been voted : [votes]/[memberCount]**",
+"ar":"**<:vote:840400013988462632> تم التصويت لتخطي الأغنية : [votes]/[memberCount]**"
+},
+"skipped_song":{
+"en":"**<:Music:839385313776107521> Skipped this song , Start playing: [song]**",
+"ar":"**<:Music:839385313776107521> تم تخطي هذه الأغنية , جاري بدأ تشغيل: [song]**"
+},
+"stoped":{
+"en":"**<:yes:839305757576003585> The music has been stopped**",
+"ar":"**<:yes:839305757576003585> تم إيقاف تشغيل الأغاني**"
+},
+"bot_vol":{
+"en":"[volume] **<:volumeup:840666449421008957> The current volume level is : [vol]**",
+"ar":"[volume] **<:volumeup:840666449421008957> مستوى الصوت الحالي هو : [vol]**"
+},
+"between_vol":{
+"en":"**Volume number must be between [0 - 150]**",
+"ar":"**يجب أن يكون مستوى الصوت بين [0 - 150]**"
+},
+"vol_changed":{
+"en":"[bot] **The volume has changed to: [vol]/150**",
+"ar":"[bot] **تم تغيير مستوى الصوت إلى: [vol]/150**"
+},
+"vaild_num":{
+"en":"**<:no:839305037007814656> You must enter a vaild number!**",
+"ar":"**<:no:839305037007814656> يجب عليك إدخال رقم صحيح!**"
+},
+"you_must_be_in":{
+"en":"**<:no:839305037007814656> You can only use this command in support server**\n**[support](https://discord.gg/PD9fH3W448)**",
+"ar":"**<:no:839305037007814656> يمكنك استخدام هذا الامر في سيرفر الدعم الفني فقط**\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**"
+},
+"boost_wait":{
+"en":"**<:time:845274874434813993> You can take your boost reward only 1 time everyweek , you must wait (time) to your next boost claim**",
+"ar":"**<:time:845274874434813993> يمكنك أخذ جائزة البوست الخاصه بك مره واحده فقط كل اسبوع  , يجب عليك الانتظار (time) حتى جازتك القادمه**"
+},
+"recived_boost":{
+"en":"**<:Coins:838935941900664903> You Have Received `50000` Coins For Boosting Rhyno Support server**",
+"ar":"**<:Coins:838935941900664903> لقد حصلت على `50000` كوينز كجائزة لعملك بوست لسيرفر الدعم الفني**"
+},
+"help_home":{
+"en":"**bot prefix is** `[prefix]`\n\n **[prefix]setprefix `|` To Change Bot's Prefix In This Server**\n**[prefix]setlang [ar/en] `|` To Change Bot's Language**\n\n > **<:public:838935938104033340> Public Commands**\n> **<:Moderation:838935952726425600> Moderation Commands**\n> **<:economy:838935963266318346> Economy Commands**\n> **<a:giveaways:838935968139706379> Giveaway Commands**\n> **<:Top:840816730842202182> Top Commands**\n> **<:Music:839385313776107521> Music Commands**\n> <:voice:844037492494565400> **Voice Manage Commands**\n> **<:Protection:845177162658086922> Protection Commands**\n> **<:Home:840987333704810506> Main List**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"**بادئة البوت في السيرفر هي** `[prefix]`\n\n **[prefix]setprefix `|` لتغيير بادئة البوت في السيرفر**\n**[prefix]setlang [ar/en] `|` لتغيير اللغة**\n\n > **<:public:838935938104033340> أوامر عامة**\n> **<:Moderation:838935952726425600> أوامر إدارية**\n> **<:economy:838935963266318346> أوامر إقتصادية**\n> **<a:giveaways:838935968139706379> أوامر قيفاوي**\n> **<:Top:840816730842202182> أوامر التوب**\n> **<:Music:839385313776107521> أوامر الموسيقى**\n> <:voice:844037492494565400> **أوامر إدارية صوتية**\n> **<:Protection:845177162658086922> أوامر الحماية**\n> **<:Home:840987333704810506> القائمة الرئيسية**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_public":{
+"en":"**<:public:838935938104033340> Public Commands**\n\n> **[prefix]id `|` To Show Your Level In The Server**\n > **[prefix]server `|` View Server Information**\n> **[prefix]ping `|` View bot Ping**\n> **[prefix]info `|` View Rhyno Bot Information**\n> **[prefix]user `|` View User Information**\n> **[prefix]avatar `|` View User Avatar**\n> **[prefix]avatar server `|` View Server Avatar**\n> **[prefix]banner `|` View Server Banner**\n> **[prefix]roles `|` View Server Roles**\n> **[prefix]emojis `|` Show Server Emojis**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"**<:public:838935938104033340> الأوامر العامة**\n\n> **[prefix]id `|` لعرض المستوى الخاص بك في السيرفر**\n > **[prefix]server `|` لعرض معلومات السيرفر**\n> **[prefix]ping `|` لعرض بينق البوت**\n> **[prefix]info `|` لعرض معلومات عن راينو بوت**\n> **[prefix]user `|` لعرض معلومات عن المستخدم**\n> **[prefix]avatar `|` لعرض الصورة الخاصه بشخص ما**\n> **[prefix]avatar server `|` لعرض الصوره الخاصه بالسيرفر**\n> **[prefix]banner `|` لعرض البانر الخاص بالسيرفر**\n> **[prefix]roles `|` لعرض قائمه بالرولات الموجوده بالسيرفر**\n> **[prefix]emojis `|` لعرض الايموجيات الموجوده في السيرفر**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_moderation":{
+"en":"<:Moderation:838935952726425600> **Moderation Commands**\n\n> **[prefix]clear `|` Clear messages from chat**\n> **[prefix]ban `|` Ban A User From Guild**\n> **[prefix]unban `|` Unban A User From Guild**\n> **[prefix]kick `|` Kick A User From Guild**\n> **[prefix]mute `|` Mute A User From Chat**\n> **[prefix]unmute `|` Unmute A User From Chat**\n> **[prefix]role [user] [role] `|` Add / Remove Role From User**\n> **[prefix]lock `|` Lock Text Channel**\n> **[prefix]unlock `|` Unlock Voice Channel**\n> **[prefix]hide `|` To hide channel from everyone**\n> **[prefix]show `|` To show channel to everyone**\n> **[prefix]nick [user] [name] `|` Change User Nickname**\n> **[prefix]add-emoji `|` Add A Emoji To The Server**\n> **[prefix]add-emojis `|` To Add alot of Emojis together**\n> **[prefix]bots `|` To get a list with the bots in your server**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"<:Moderation:838935952726425600> **الأوامر الإدارية**\n\n> **[prefix]clear `|` لمسح رسائل من الروم**\n> **[prefix]ban `|` لحظر عضو من السيرفر**\n> **[prefix]unban `|` لفك حظر عضو من السيرفر**\n> **[prefix]kick `|` لطرد عضو من السيرفر**\n> **[prefix]mute `|` لاسكات عضو من الشات**\n> **[prefix]unmute `|` لفك اسكات عضو**\n> **[prefix]role [user] [role] `|` لاضافة او ازالة رتبة من شخص ما**\n> **[prefix]lock `|` لاغلاق روم معين**\n> **[prefix]unlock `|` لفتح روم معين**\n> **[prefix]hide `|` لاخفاء روم معين**\n> **[prefix]show `|` لاظهار روم للجميع**\n> **[prefix]nick [user] [name] `|` لتغيير اسم شخص ما في السيرفر**\n> **[prefix]add-emoji `|` لإضافة إيموجي واحد الى السيرفر , [يمكنك جعل الايموجي لا يظهر الا لرول معين]**\n> **[prefix]add-emojis `|` لإضافة أكثر من إيموجي**\n> **[prefix]bots `|` لعرض قائمة بالبوتات الموجوده في السيرفر**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_giveaways":{
+"en":"<a:giveaways:838935968139706379> **Giveaway Commands**\n\n> **[prefix]gstart `|` Start A Giveaway**\n> **[prefix]gend `|` End A Giveaway**\n> **[prefix]greroll `|` Reroll A Giveaway Winner(s)**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"<a:giveaways:838935968139706379> **أوامر القيفاوي**\n\n> **[prefix]gstart `|` لعمل قيفاوي**\n> **[prefix]gend `|` لإنهاء قيفاوي**\n> **[prefix]greroll `|` لإعادة تحديد فائزين**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_economy":{
+"en":"**<:economy:838935963266318346> Economy Commands**\n\n> **[prefix]profile `|` View Profile**\n> **[prefix]coins `|` View User Coins**\n> **[prefix]coins [user] [amount] `|` Transfer Coins To User**\n> **[prefix]note `|` Set Your Profile Note**\n> **[prefix]like [user] `|` Give A Like Point**\n> **[prefix]daily `|` Collect Daily**\n> **[prefix]boost `|` To Get 50k Coins When You Boost Rhyno Support server**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"**<:economy:838935963266318346> الأوامر اقتصادية**\n\n> **[prefix]profile `|` لعرض الملف الشخصي**\n> **[prefix]coins `|` لعرض الكوينز الخاصه بالمستخدم**\n> **[prefix]coins [user] [amount] `|` لتحويل الكوينز الى شخص اخر**\n> **[prefix]note `|` لتعديل الملاحظة الموجودة في ملفك الشخصي**\n> **[prefix]like [user] `|` لإعطاء نقطة إعجاب لشخص ما**\n> **[prefix]daily `|` لاستلام الجائزة اليومية**\n> **[prefix]boost `|` للحصول على 50 الف بشكل اسبوعي عند عملك بوست لسيرفر الدعم الفني**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_top":{
+"en":"**<:Top:840816730842202182> Top Commands**\n\n> **[prefix]top `|` To Get A List With The Most Active People In The Server**\n> **[prefix]reset [text/voice] `|` To reset top text or voice in your server**\n> **[prefix]top-coins `|` To Get A List With The Richest 5 People**\n> **[prefix]top-xp `|` To Get A List With The Most Active 5 People**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"**<:Top:840816730842202182> أوامر التوب**\n\n> **[prefix]top `|` لعرض قائمة بأكثر الاشخاص تفاعلا في الصوت والشات**\n> **[prefix]reset [text/voice] `|` لتصفير التوب شات او صوت**\n> **[prefix]top-coins `|` لعرض قائمة بأغنى 5 أشخاص على مستوى البوت**\n> **[prefix]top-xp `|` لعرض قائمة بأكثر 5 أشخاص تفاعلا على مستوى البوت**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_music":{
+"en":"<:Music:839385313776107521> **Music Commands**\n\n> **[prefix]play `|` Add A Song To Queue**\n> **[prefix]skip `|` Skip Current Song**\n> **[prefix]queue `|` Display Queue**\n> **[prefix]stop `|` Stop Queue And Leave**\n> **[prefix]now-playing `|` View Current Song**\n> **[prefix]volume `|` Change Song Volume**\n> **[prefix]pause `|` Pause Current Song**\n> **[prefix]repeat `|` Repeat Song**\n> **[prefix]clear-queue `|` Clear Current Queue**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"<:Music:839385313776107521> **أوامر الأغاني**\n\n> **[prefix]play `|` لإضافة أغنية إلى قائمة التشغيل**\n> **[prefix]skip `|` لتخطي الأغنية الحالية**\n> **[prefix]queue `|` لعرض قائمة التشغيل**\n> **[prefix]stop `|` لإزالة قائمة الأغاني والمغادرة**\n> **[prefix]now-playing `|` لعرض الأغنية الحالية**\n> **[prefix]volume `|` لتغيير مستوى الصوت**\n> **[prefix]pause `|` لإيقاف الأغنية الحالية مؤقتا**\n> **[prefix]repeat `|` لتكرار الأغنية**\n> **[prefix]remove `|` لإزالة أغنية من قائمة التشغيل الحالية**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_voice":{
+"en":"<:voice:844037492494565400> **Voice Manage Commands**\n\n> **[prefix]temproom [on/off] `|` To set Temp rooms On / off**\n> **[prefix]vmute `|` To mute someone from the voice**\n> **[prefix]unvmute `|` To Unmute someone from the voice**\n> **[prefix]deaf `|` To Deafen someone**\n> **[prefix]undeaf `|` To undeafen someone**\n> **[prefix]move `|` To move someone to your voice room**\n> **[prefix]moveme `|` To move yourself to Someone's voice room**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"<:voice:844037492494565400> **الأوامر الإدارية الصوتية**\n\n> **[prefix]temproom [on/off] `|` لتشغيل أو إيقاف الرومات المؤقته**\n> **[prefix]vmute `|` لكتم صوت شخص ما**\n> **[prefix]unvmute `|` لإزالة كتم صوت شخص ما**\n> **[prefix]deaf `|` لاعطاء شخص ما كتم سماعه**\n> **[prefix]undeaf `|` لازالة كتم سماعه شخص ما**\n> **[prefix]move `|` لسحب شخص ما الى الروم الخاص بك او سحب الكل عن طريق كتابة [all]**\n> **[prefix]moveme `|` لسحب نفسك الى الروم الخاصه بشخص ما**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"help_Protection":{
+"en":"<:Protection:845177162658086922> **Protection Commands**\n\n> **[prefix]blockmessage `|` To Block Message And If Someone Type This Message He Will Be Automaticly Muted**\n> **[prefix]unblockmessage `|` To Unblock Message**\n> **[prefix]blocks `|` To Get A List With Blocked Messages**\n\n**[support](https://discord.gg/PD9fH3W448)**\n**[invite](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":"<:Protection:845177162658086922> **Protection Commands**\n\n> **[prefix]blockmessage `|` لحظر رساله من السيرفر بحيث اذا كتب شخص ما الرساله يتم اسكاته تلقائيا من قبل البوت**\n> **[prefix]unblockmessage `|` لازالة حظر رساله معينه**\n> **[prefix]blocks `|` للحصول على قائمة بالرسائل المحظورة**\n\n**[الدعم الفني](https://discord.gg/PD9fH3W448)**\n**[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**"
+},
+"rhyno_commands":{
+"en":"**Rhyno commands**",
+"ar":"الأوامر"
+},
+"rhyno_team":{
+"en":"Rhyno Team",
+"ar":"فريق راينو بوت"
+},
+
+  
+"rhyno_important":{
+"en":"<:links:844670322371330048> Rhyno Bot's important links",
+"ar":"<:links:844670322371330048> روابط مهمة خاصه براينو بوت"
+},
+"rhyno_links":{
+"en":"> **[الدعم الفني](https://discord.gg/PD9fH3W448)**\n> **[دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":""
+},
+
+  
+"no_emojis":{
+"en":"**<:no:839305037007814656> this Server Doesn't Have any emojis**",
+"ar":"**<:no:839305037007814656> هذا السيرفر ليس به اي ايموجيات**"
+},
+  
+  
+"info_servers":{
+"en":"<:Discord:839318835248889888> Servers",
+"ar":"<:Discord:839318835248889888> السيرفرات"
+},
+"info_users":{
+"en":"<:Member:839320206294777866> Users",
+"ar":"<:Member:839320206294777866> المستخدمين"
+},
+"info_created":{
+"en":"<:time:845274874434813993> Created At",
+"ar":"<:time:845274874434813993> تم صنعه في"
+},
+"my_links":{
+"en":"**<:links:844670322371330048> My Links**",
+"ar":"**<:links:844670322371330048> الروابط الخاصه بي**"
+},
+"info_links":{
+"en":"> **[سيرفر الدعم الفني](https://discord.gg/PD9fH3W448)**\n> **[رابط دعوة البوت](https://discord.com/oauth2/authorize?client_id=840444855158046730&permissions=2080374975&scope=bot)**",
+"ar":""
+},
+"rhyno_info":{
+"en":"Rhyno Bot Info",
+"ar":"معلومات عن راينو بوت"
+},
+  
+  
+"rhyno_ping":{
+"en":"**Data pase Ping: **[pingdb]\n**Ping Bot: ** [pingbot]",
+"ar":"**بينج الداتا بيس: **[pingdb]\n**بينج البوت: ** [pingbot]"
+},
+  
+  
+"server_doesnt_have_roles":{
+"en":"**<:no:839305037007814656> this Server Doesn't Have any roles**",
+"ar":"**<:no:839305037007814656> هذا السيرفر لا يوجد به أي رولات**"
+},
+
+
+"server_createdon":{
+"en":"<:time:845274874434813993> Created On",
+"ar":"<:time:845274874434813993> تم صنعه في"
+},
+  
+"server_ownedby":{
+"en":"<:OwnerShip:839585758390386789> Owned By",
+"ar":"<:OwnerShip:839585758390386789> صاحب السيرفر"
+}, 
+"server_members":{
+"en":"<:Member:839320206294777866> Members",
+"ar":"<:Member:839320206294777866> الأعضاء"
+},
+"server_online":{
+"en":"<:online:839579954022580224> Online",
+"ar":"<:online:839579954022580224> المتصلين"
+},
+"server_roles":{
+"en":"<:Guild:839321839327379476> Roles",
+"ar":"<:Guild:839321839327379476> الرتب"
+},
+"server_emojis":{
+"en":"<:Emoji:839595652044685362> Emojis",
+"ar":"<:Emoji:839595652044685362> الإيموجيات"
+},
+"server_region":{
+"en":"<:Global:839585373151559710> Region",
+"ar":"<:Global:839585373151559710> المنطقة"
+},
+  
+  
+"user_info":{
+"en":"**<:Discord:839318835248889888> Joined Discord :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> Joined Guild:** \n > [dateserver] | `[timeserver]`",
+"ar":"**<:Discord:839318835248889888> دخل الديسكورد :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> دخل السيرفر:** \n > [dateserver] | `[timeserver]`"
+},
+"user_info2":{
+"en":"**<:Discord:839318835248889888> Joined Discord :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> Joined Guild:** \n > [dateserver] | `[timeserver]`",
+"ar":"**<:Discord:839318835248889888> دخل الديسكورد :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> دخل السيرفر:** \n > [dateserver] | `[timeserver]`"
+},
+"user_info3":{
+"en":"**<:Discord:839318835248889888> Joined Discord :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> Joined Guild:** \n > [dateserver] | `[timeserver]`",
+"ar":"**<:Discord:839318835248889888> دخل الديسكورد :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> دخل السيرفر:** \n > [dateserver] | `[timeserver]`"
+},
+"user_info4":{
+"en":"**<:Discord:839318835248889888> Joined Discord :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> Joined Guild:** \n > [dateserver] | `[timeserver]`",
+"ar":"**<:Discord:839318835248889888> دخل الديسكورد :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> دخل السيرفر:** \n > [dateserver] | `[timeserver]`"
+},
+"user_info5":{
+"en":"**<:Discord:839318835248889888> Joined Discord :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> Joined Guild:** \n > [dateserver] | `  [timeserver]`",
+"ar":"**<:Discord:839318835248889888> دخل الديسكورد :**\n > [datediscord] | `[timediscord]`\n**<:Guild:839321839327379476> دخل السيرفر:** \n > [dateserver] | `[timeserver]`"
+},
+"users5":{
+"en":"**<:no:839305037007814656> You can mention only up to 5 users**",
+"ar":"**<:no:839305037007814656> يمكنك عمل منشن لـ 5 أشخاص كحد أقصى**"
+},
+  
+  
+"reset_help":{
+"en":"**<:no:839305037007814656> You must enter a mention[soon] or id[soon] or all to reset xp for someone\n\n For example:**\n\n> ** [prefix]reset text all **\n> **[prefix]reset voice all**",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن[soon] او ايدي[soon] او all لتصفير الاكس بي\n\n على سبيل المثال:**\n\n> ** [prefix]reset text all **\n> **[prefix]reset voice all**"
+},
+"confirm_reset":{
+"en":"**please type `confirm` to reset xp for all members**",
+"ar":"**رجاءً اكتب `confirm` لتصفير الاكس بي لجميع الاعضاء**"
+},
+"load_reset":{
+"en":"**Loading**",
+"ar":"**جار التحميل**"
+},
+"reset_text_done":{
+"en":"**<:yes:839305757576003585> All members' text xp have been reset**",
+"ar":"**<:yes:839305757576003585> تم تصفير جميع الاكسبي في الشات لجميع الاعضاء**"
+},
+"reset_voice_done":{
+"en":"**<:yes:839305757576003585> All members' voice xp have been reset**",
+"ar":"**<:yes:839305757576003585> تم تصفير جميع الاكسبي في الصوت لجميع الاعضاء**"
+},
+  
+  
+"top5":{
+"en":"**Top 5 text**\n[toptext]\n**Top 5 voice**\n[topvoice]",
+"ar":"**أعلى 5 شات**\n[toptext]\n**أعلى 5 صوت**\n[topvoice]"
+},
+"top10_text":{
+"en":"**Top 10 text**\n[top10text]\n",
+"ar":"**أعلى 10 شات**\n[top10text]\n"
+},
+"top_voice":{
+"en":"**Top 10 voice**\n[top10voice]",
+"ar":"**أعلى 10 صوت**\n[top10voice]"
+},
+  
+
+"soon_in_dashboard":{
+"en":"Soon In Dashboard",
+"ar":"قريبا في الداشبورد"
+},
+  
+  
+"voice_deafen":{
+"en":"**<:no:839305037007814656> You must Have permission `[voice Deafen Members]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[voice Deafen Members]` حتى تستطيع استخدام هذا الامر**"
+},
+"enter_deaf":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to deafen someone\n\n For example:**\n\n> ** [prefix]deaf <@[id]> **\n> **[prefix]deaf [id]**",
+"ar":"**<:no:839305037007814656> يجب عليك إدخال منشن أو ايدي لكتم سماعه شخص ما\n\n For example:**\n\n> ** [prefix]deaf <@[id]> **\n> **[prefix]deaf [id]**"
+},
+"you_cant_deaf":{
+"en":"**<:no:839305037007814656> You Can't Deaf** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك كتم سماعه** <@"
+},
+"already_deaf":{
+"en":"**<:no:839305037007814656> This user already deafened**",
+"ar":"**<:no:839305037007814656> هذا العضو مكتومه سماعته بالفعل**"
+},
+"has_been_deaf":{
+"en":"> **Has been Voice deafened from the server**",
+"ar":"> **تم كتم سماعة هذا العضو**"
+},
+
+
+"voice_move_members":{
+"en":"**<:no:839305037007814656> You must Have permission `[voice Move Members]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[voice Move Members]` حتى تستطيع استخدام هذا الامر**"
+},
+"moving_all":{
+"en":"**<:loading:839574835683786812> Moving all members to your channel , please wait..**",
+"ar":"**<:loading:839574835683786812> أقوم الآن بسحب جميع الأعضاء الى الروم الخاص بك , الرجاء الانتظار..**"
+},
+"done_moving_all":{
+"en":"**<:yes:839305757576003585> Done all members have been Moved to your channel **",
+"ar":"**<:yes:839305757576003585> تم سحب جميع الأعضاء إلى الروم الخاص بك **"
+},
+"you_cant_move":{
+"en":"**<:no:839305037007814656> You Can't Move** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك سحب** <@"
+},
+"members_not_in_voice":{
+"en":"**<:no:839305037007814656> This Member is not in a voice room**",
+"ar":"**<:no:839305037007814656> هذا العضو غير موجود في روم صوتي**"
+},
+"user_in_your_channel":{
+"en":"**<:no:839305037007814656> This user is already in your channel**",
+"ar":"**<:no:839305037007814656> هذا العضو موجود في الروم الخاص بك بالفعل**"
+},
+"done_moved_user":{
+"en":"**<:yes:839305757576003585> Done This user has been Moved to your channel **",
+"ar":"**<:yes:839305757576003585> تم سحب هذا العضو الى الروم الخاص بك **"
+},
+"enter_move":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to move someone\n\n For example:**\n\n> ** [prefix]move <@[id]> **\n> **[prefix]move [id]**\n> **[prefix]move all**",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن او ايدي لسحب شخص ما\n\n على سبيل المثال:**\n\n> ** [prefix]move <@[id]> **\n> **[prefix]move [id]**\n> **[prefix]move all**"
+},
+  
+  
+"enter_moveme":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to move yourself to someone\n\n For example:**\n\n> ** [prefix]moveme <@[id]> **\n> **[prefix]moveme [id] **",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن او ايدي شخص ما لسحب نفسك اليه\n\n على سبيل المثال:**\n\n> ** [prefix]moveme <@[id]> **\n> **[prefix]moveme [id] **"
+},
+"you_cant_connect":{
+"en":"**<:no:839305037007814656> You Don't have permission to connect to this room**",
+"ar":"**<:no:839305037007814656> ليس لديك صلاحية للدخول لهذا الروم الصوتي**"
+},
+"done_you_moved":{
+"en":"**<:yes:839305757576003585> Done you have been Moved **",
+"ar":"**<:yes:839305757576003585> تم سحبك الى الروم المتواجد به العضو **"
+},
+
+  
+"ented_undeaf":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to undeafen someone\n\n For example:**\n\n> ** [prefix]undeaf <@[id]> **\n> **[prefix]undeaf [id] **",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن او ايدي لازاله كتم سماعه شخص ما\n\n على سبيل المثال:**\n\n> ** [prefix]undeaf <@[id]> **\n> **[prefix]undeaf [id] **"
+},
+"this_user_not_deafened":{
+"en":"**<:no:839305037007814656> This user is not deafened**",
+"ar":"**<:no:839305037007814656> هذا العضو سماعته غير مكتومه !**"
+},
+"has_been_undeafened":{
+"en":"> **Has been Voice undeafened from the server**",
+"ar":"> **تم إزالة كتم السماعه عنه**"
+},
+  
+  
+"must_voice_mute":{
+"en":"**<:no:839305037007814656> You must Have permission `[voice Mute Members]` to use this command**",
+"ar":"**<:no:839305037007814656> يجب أن يكون لديك صلاحية `[voice Mute Members]` حتى تستطيع استخدام هذا الامر**"
+},
+"enter_vmute":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to vmute someone\n\n For example:**\n\n> ** [prefix]vmute <@[id]> **\n> **[prefix]vmute [id] **",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن او ايدي لكتم صوت شخص ما\n\n على سبيل المثال:**\n\n> ** [prefix]vmute <@[id]> **\n> **[prefix]vmute [id] **"
+},
+"you_cant_vmute":{
+"en":"**<:no:839305037007814656> You Can't vmute** <@",
+"ar":"**<:no:839305037007814656> لا يمكنك كتم صوت هذا العضو** <@"
+},
+"already_vmuted":{
+"en":"**<:no:839305037007814656> This user is already vmuted**",
+"ar":"**<:no:839305037007814656> هذا العضو مكتوم صوته بالفعل**"
+},
+"has_been_vmuted":{
+"en":"**<:yes:839305757576003585> ** <@[id]> **Has been Voice Muted from the server**",
+"ar":"**<:yes:839305757576003585> ** <@[id]> **تم كتم صوت هذا العضو في السيرفر**"
+},
+"enter_unvmute":{
+"en":"**<:no:839305037007814656> You must enter a mention or id to unvmute someone\n\n For example:**\n\n> ** [prefix]unvmute <@[id]> **\n> **[prefix]unvmute [id] **",
+"ar":"**<:no:839305037007814656> يجب عليك ادخال منشن او ايدي لازاله كتم صوت شخص ما\n\n على سبيل المثال:**\n\n> ** [prefix]unvmute <@[id]> **\n> **[prefix]unvmute [id] **"
+},
+"this_user_isnt_vmuted":{
+"en":"**<:no:839305037007814656> This user isn't vmuted **",
+"ar":"**<:no:839305037007814656> هذا العضو غير مكتوم صوته **"
+},
+"has_been_unvmutedd":{
+"en":"**<:yes:839305757576003585> ** <@[id]> **Has been unvmuted from the server**",
+"ar":"**<:yes:839305757576003585> ** <@[id]> **تم إزالة كتم صوت هذا العضو في السيرفر**"
+},
+"temp_on":{
+"en":"**<:yes:839305757576003585> Temp rooms are now enabled**",
+"ar":"**<:yes:839305757576003585> الرومات المؤقتة مفعله الآن**"
+},
+"temp_off":{
+"en":"**<:yes:839305757576003585> Temp rooms are now disabled**",
+"ar":"**<:yes:839305757576003585> الرومات المؤقتة غير مفعله الآن**"
+},
+"temp_already_on":{
+"en":"**<:no:839305037007814656> Temp room already enabled !**",
+"ar":"**<:no:839305037007814656> الرومات المؤقتة مفعله في هذا السيرفر بالفعل !**"
+},
+"temp_already_off":{
+"en":"**<:no:839305037007814656> Temp rooms already disabled !**",
+"ar":"**<:no:839305037007814656> الرومات المؤقتة غير مفعله في هذا السيرفر بالفعل !**"
+},
+  
+  
+"You_cant_warn":{
+"en":"<:no:839305037007814656> **You Can't Warn** <@",
+"ar":":no:839305037007814656> **لا يمكنك تحذير هذا العضو** <@"
+},
+"dm_warn":{
+"en":"**[name]**\nReason: [reason]",
+"ar":"**[name]**\nالسبب: [reason]"
+},
+"has_been_waned":{
+"en":"**<@[id]> Has been warned**",
+"ar":"**<@[id]> تم تحذير هذا العضو**"
+},
+"no_warns":{
+"en":"**There are no warnings in this server**",
+"ar":"**لا توجد تحذيرات في هذا السيرفر**"
+},
+  
+  
+"enter_all_emojis":{
+"en":"**Enter All emojis**",
+"ar":"**أرسل جميع الايموجيات التي تريد اضافتها**"
+},
+  
+  
+  
+  
+  
+  
+"cool_down_message":{
+"en":"<:time:845274874434813993> please wait **[timeleft]** more second(s) before reusing the `[commandname]` command.",
+"ar":"<:time:845274874434813993> الرجاء انتظار **[timeleft]** ثواني أخرى قبل إعادة استخدام هذا الامر `[commandname]`."
+}
+}]

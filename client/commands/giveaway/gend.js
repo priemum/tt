@@ -7,7 +7,7 @@ module.exports = {
 	execute: async function(client ,msg , args, db3, db1, db2, db4, db5, db) {
   
   let guild = await db3.find({id: msg.channel.guild.id})
-if(guild.length < 1){
+if(guild.length < 1){                 
 guild = [{lang: "en"}]
 }
 let lang = guild[0].lang || "en"
